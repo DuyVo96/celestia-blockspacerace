@@ -72,7 +72,6 @@ ADDRESS: celestia1mfpxjqkr5xfcpqy4kt94fwsrpc5cfh4tc2dz47
 MNEMONIC (save this somewhere safe!!!): 
 stable theory promote obtain clerk loud wish know doctor multiply one stairs c........................
 ```
-NOTE: The core ip, rpc port, grpc port in the ExecStart command are taken from the endpoints provided in the Celestia documentation (https://docs.celestia.org/nodes/blockspace-race/#rpc-endpoints) and there are alternatives. If you want, you can change here and use different endpoints. 
 
 ## Khởi tạo đơn giản
 - Enter the following code while on the Tmux screen.
