@@ -126,5 +126,5 @@ curl -X POST \
 - Khi có ID anh em vài search thời gian uptime và các thông tin khác trong trang https://tiascan.com/light-nodes nha.
 ![11111](https://user-images.githubusercontent.com/73176377/228071707-5f6639e6-b51c-48a9-957a-33a317f5653b.PNG)
 
-NOTE: /root/.celestia-light-blockspacerace-0 under the keys folder must be backed up.
+
 
